@@ -8,6 +8,7 @@ padding: 0%;}
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+    
 }
 .imagem-principal{width: 20%;}
 
@@ -18,4 +19,12 @@ padding: 0%;}
 }
 .foto-sua{
     width: 20%;
+}
+.foto-sua{
+    background-color: aquamarine;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
